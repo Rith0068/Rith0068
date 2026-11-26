@@ -1,92 +1,93 @@
----
-
-<h2 align="center">Tech Stack</h2>
-
-<h3 align="center">Frontend Development</h3>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,bootstrap" />
-</div>
-
-<h3 align="center">Backend Development</h3>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,php,laravel" />
-</div>
-
-<h3 align="center">Database</h3>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
-</div>
-
-<h3 align="center">Tools & Technologies</h3>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,linux" />
-</div>
-
----
-
-<h2 align="center">GitHub Analytics</h2>
-
+<!-- ===== HERO ===== -->
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rith0068&show_icons=true&theme=transparent&hide_border=true&title_color=34d399&icon_color=34d399&text_color=cbd5e1&ring_color=34d399" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rith0068&layout=compact&theme=transparent&hide_border=true&title_color=34d399&text_color=cbd5e1" />
+<img src="./assets/sothearith-sakura-banner.gif" width="100%" alt="SoTheaRith Sakura Japan Banner" />
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Rith0068&theme=transparent&hide_border=true&ring=34D399&fire=06B6D4&currStreakLabel=34D399&sideLabels=CBD5E1&dates=94A3B8" />
+# 🌸 SoTheaRith
+
+### Full Stack Web & Mobile Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=500&lines=Code+%E2%80%A2+Build+%E2%80%A2+Innovate;Backend+Developer;Always+Learning+New+Things" alt="Typing Animation" />
+
+<br/>
+
+*桜の下で、夢を追いかけて*
+
+🌸 Dream • Create • Develop • Grow 🌸
 
 </div>
 
----
-
-<h2 align="center">Contribution Activity</h2>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rith0068&bg_color=020617&color=34d399&line=06b6d4&point=ffffff&area=true&hide_border=true" />
-
-</div>
+<!-- ===== END HERO ===== -->
 
 ---
 
-<h2 align="center">My Projects</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
 
-<div align="center">
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,bootstrap&theme=dark" alt="Frontend skills" />
+</p>
 
-<table>
-<tr>
-<td width="50%" align="center">
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,php,laravel&theme=dark" alt="Backend skills" />
+</p>
 
-### 🌐 Portfolio Website
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="Database skills" />
+</p>
 
-My personal portfolio showcasing my skills, background, and development journey.
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,linux&theme=dark" alt="Tools" />
+</p>
 
-<a href="https://sothearith-is-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-059669?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+---
 
-</td>
+<h2 align="center">📊 GitHub Analytics</h2>
 
-<td width="50%" align="center">
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rith0068&show_icons=true&hide_border=false&border_color=30363d&border_radius=12&bg_color=0d1117&title_color=f472b6&icon_color=e879f9&text_color=cbd5e1&ring_color=f472b6" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rith0068&layout=compact&hide_border=false&border_color=30363d&border_radius=12&bg_color=0d1117&title_color=f472b6&text_color=cbd5e1" alt="Top Languages" />
+</p>
 
-### 💻 More Projects
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=Rith0068&background=0D1117&border=30363D&ring=F472B6&fire=E879F9&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F472B6&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub Streak" />
+</p>
 
-Explore my repositories to discover my academic and personal development projects.
+---
 
-<a href="https://github.com/Rith0068?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-0891b2?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<h2 align="center">📈 Contribution Activity</h2>
 
-</td>
-</tr>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rith0068&bg_color=0d1117&color=f472b6&line=e879f9&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+<h2 align="center">🚀 My Projects</h2>
+
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <h3>🌐 Portfolio Website</h3>
+      <p>My personal portfolio showcasing my skills, background, and development journey.</p>
+      <a href="https://sothearith-is-portfolio.vercel.app/">
+        <img src="https://img.shields.io/badge/VIEW%20PROJECT-f472b6?style=for-the-badge&logo=vercel&logoColor=white" alt="View Portfolio" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <h3>💻 More Projects</h3>
+      <p>Explore my repositories to discover my academic and personal development projects.</p>
+      <a href="https://github.com/Rith0068?tab=repositories">
+        <img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-a855f7?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects" />
+      </a>
+    </td>
+  </tr>
 </table>
-
-</div>
 
 ---
 
@@ -108,27 +109,19 @@ Explore my repositories to discover my academic and personal development project
 
 <h2 align="center">🤝 Connect With Me</h2>
 
-<div align="center">
-
-<a href="https://github.com/Rith0068">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://sothearith-is-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-059669?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-</div>
-
----
+<p align="center">
+  <a href="https://github.com/Rith0068">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://sothearith-is-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-f472b6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 <div align="center">
 
-### 💚 Keep Learning. Keep Building. Keep Growing.
+### 🌸 Keep Learning. Keep Building. Keep Growing.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:064e3b,100:020617&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f472b6,50:a855f7,100:0d1117&height=120&section=footer" alt="Footer wave" />
 
 </div>
-```
-
-**Remember:** Copy the code inside the block, including the Markdown and HTML, but not the outer triple backticks.
