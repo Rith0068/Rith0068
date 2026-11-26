@@ -1,72 +1,95 @@
-Act as a professional GitHub Profile Designer and Personal Branding Expert.
+Act as a senior UI/UX designer and GitHub profile branding expert.
 
-I want you to design and create an attractive, modern, and professional GitHub Profile README.md for me.
+Design a premium, visually impressive GitHub Profile README.md for me.
 
-### About Me
-- Name: SoTheaRith
-- Role: Full Stack Web & Mobile Developer Student
-- Currently learning: React, Spring Boot, Java, Laravel, and Mobile Development.
-- Main interests: Backend Development, Database Design, API Development, and Cybersecurity.
-- Goal: Become a professional Full Stack Developer.
+PERSONAL BRAND:
+Name: SoTheaRith
+Role: Full Stack Web & Mobile Developer
+GitHub: Rith0068
 
-### Design Requirements
+DESIGN CONCEPT:
+Create a modern developer dashboard with a dark futuristic aesthetic.
 
-1. **Modern Hero Section**
-   - Create an attractive introduction.
-   - Include my name and developer role.
-   - Add a short professional introduction.
-   - Use a clean and modern visual style.
+VISUAL DESIGN:
+- Deep black / navy background.
+- Animated emerald green and cyan gradient effects.
+- Subtle glowing borders.
+- Glassmorphism-style sections.
+- Smooth visual transitions where supported.
+- Modern typography.
+- Clean layouts with consistent spacing.
+- Professional and minimal, not overcrowded.
 
-2. **About Me**
-   - Introduce who I am.
-   - Explain what I am currently learning.
-   - Highlight my interests and career goals.
+SECTIONS:
 
-3. **Tech Stack**
-   Organize technologies into categories:
-   - Frontend
-   - Backend
-   - Database
-   - Tools & Technologies
+1. HERO SECTION
+- Large animated greeting.
+- My name: SoTheaRith.
+- Animated typing text:
+  Full Stack Developer
+  Backend Developer
+  Web & Mobile Developer
+- Attractive banner with gradient effects.
+- GitHub profile visitor counter.
 
-4. **GitHub Statistics**
-   - GitHub contribution statistics.
-   - Most-used programming languages.
-   - GitHub streak statistics.
+2. ABOUT ME
+- Professional introduction.
+- My development interests.
+- My career goals.
+- Current learning journey.
 
-5. **Featured Projects**
-   - Create an attractive section for my projects.
-   - Include project names, descriptions, and repository links.
+3. TECH STACK
+Organized technology icons:
+- Frontend: HTML, CSS, JavaScript, React, Vue, Tailwind.
+- Backend: Java, Spring Boot, PHP, Laravel.
+- Database: MySQL, PostgreSQL.
+- Tools: Git, GitHub, Postman, Figma, VS Code.
 
-6. **Currently Learning**
-   - React
-   - Java Spring Boot
-   - REST API Integration
-   - Mobile Development
-   - Cybersecurity
+4. GITHUB ANALYTICS
+- GitHub statistics cards.
+- Most-used programming languages.
+- Contribution streak.
+- Contribution activity graph.
 
-7. **Contact & Social Media**
-   - GitHub
-   - LinkedIn
-   - Email
-   - Portfolio Website
+5. FEATURED PROJECTS
+Create beautiful project cards with:
+- Project title.
+- Short description.
+- Technologies used.
+- Repository links.
+- Live demo links where available.
 
-### Visual Style
-- Minimalist and professional.
-- Dark theme.
-- Black or dark background with green accent colors.
-- Clean typography.
-- Well-organized sections.
-- Consistent spacing and alignment.
-- Use modern GitHub README techniques.
-- Avoid unnecessary emojis and excessive decorations.
+6. CURRENTLY LEARNING
+- React.
+- Spring Boot.
+- REST API Integration.
+- Mobile Development.
+- Cybersecurity.
 
-### Technical Requirements
-- Generate complete README.md Markdown code.
-- Use reliable GitHub-compatible Markdown.
-- Make the README responsive where possible.
-- Use badges, icons, and GitHub statistics cards.
-- Ensure all sections are easy to customize.
-- Do not invent my social media links or project URLs.
+7. CONTACT
+- GitHub.
+- LinkedIn.
+- Portfolio.
+- Email.
 
-The final result should look like the GitHub profile of a professional Full Stack Developer, not a beginner template.
+ANIMATION REQUIREMENTS:
+- Animated typing effect.
+- Gradient header.
+- Glowing accent effects.
+- Animated contribution graph if supported.
+- Smooth scrolling is not required.
+
+IMPORTANT TECHNICAL RULES:
+- Use GitHub-compatible Markdown.
+- Use HTML and CSS-compatible techniques supported by GitHub README.
+- Use SVG banners and animated GIFs where appropriate.
+- Do not use JavaScript because GitHub README does not support JavaScript execution.
+- Do not pretend GitHub supports custom CSS backgrounds.
+- Use SVG-based visual backgrounds and gradient banners instead.
+- Make the README responsive.
+- Avoid broken image URLs.
+- Do not invent project links or social links.
+
+DELIVERABLE:
+Generate the complete README.md source code.
+Make it look like a premium developer portfolio dashboard.
