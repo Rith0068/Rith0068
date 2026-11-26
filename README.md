@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:064e3b,100:0891b2&height=220&section=header&text=SoTheaRith&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20%26%20Mobile%20Developer&descAlignY=58&descSize=18&animation=fadeIn" />
@@ -39,9 +38,6 @@ const thearith = {
     ],
     mindset: "Learn, Build, Improve, Repeat."
 };
-```
-
----
 
 <h2 align="center">⚡ Tech Stack</h2>
 
@@ -69,8 +65,6 @@ const thearith = {
 <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,linux" />
 </div>
 
----
-
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
@@ -85,8 +79,6 @@ const thearith = {
 
 </div>
 
----
-
 <h2 align="center">📈 Contribution Activity</h2>
 
 <div align="center">
@@ -94,8 +86,6 @@ const thearith = {
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rith0068&bg_color=020617&color=34d399&line=06b6d4&point=ffffff&area=true&hide_border=true" />
 
 </div>
-
----
 
 <h2 align="center">🚀 My Projects</h2>
 
@@ -105,7 +95,7 @@ const thearith = {
 <tr>
 <td width="50%" align="center">
 
-### 🌐 Portfolio Website
+🌐 Portfolio Website
 
 My personal portfolio showcasing my skills, background, and development journey.
 
@@ -117,7 +107,7 @@ My personal portfolio showcasing my skills, background, and development journey.
 
 <td width="50%" align="center">
 
-### 💻 More Projects
+💻 More Projects
 
 Explore my repositories to discover my academic and personal development projects.
 
@@ -131,23 +121,35 @@ Explore my repositories to discover my academic and personal development project
 
 </div>
 
----
-
 <h2 align="center">🌱 Currently Learning</h2>
 
 <div align="center">
 
-| Technology | Focus |
-|:---:|:---|
-| ⚛️ React | Frontend Development |
-| ☕ Spring Boot | Backend Development |
-| 🔗 REST API | Frontend & Backend Integration |
-| 📱 Mobile Development | Application Development |
-| 🔐 Cybersecurity | Security Fundamentals |
+Technology
+
+Focus
+
+⚛️ React
+
+Frontend Development
+
+☕ Spring Boot
+
+Backend Development
+
+🔗 REST API
+
+Frontend & Backend Integration
+
+📱 Mobile Development
+
+Application Development
+
+🔐 Cybersecurity
+
+Security Fundamentals
 
 </div>
-
----
 
 <h2 align="center">🤝 Connect With Me</h2>
 
@@ -163,15 +165,13 @@ Explore my repositories to discover my academic and personal development project
 
 </div>
 
----
-
 <div align="center">
 
-### 💚 Keep Learning. Keep Building. Keep Growing.
+💚 Keep Learning. Keep Building. Keep Growing.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:064e3b,100:020617&height=120&section=footer" />
 
 </div>
 ```
 
-**Remember:** Copy the code inside the block, including the Markdown and HTML, but not the outer triple backticks.
+Remember: Copy the code inside the block, including the Markdown and HTML, but not the outer triple backticks.
