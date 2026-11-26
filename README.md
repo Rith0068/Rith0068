@@ -1,6 +1,6 @@
 ---
 
-<h2 align="center">⚡ Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <h3 align="center">Frontend Development</h3>
 
@@ -28,7 +28,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">GitHub Analytics</h2>
 
 <div align="center">
 
@@ -44,7 +44,7 @@
 
 ---
 
-<h2 align="center">📈 Contribution Activity</h2>
+<h2 align="center">Contribution Activity</h2>
 
 <div align="center">
 
@@ -54,7 +54,7 @@
 
 ---
 
-<h2 align="center">🚀 My Projects</h2>
+<h2 align="center">My Projects</h2>
 
 <div align="center">
 
