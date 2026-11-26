@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:064e3b,100:0891b2&height=220&section=header&text=SoTheaRith&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20%26%20Mobile%20Developer&descAlignY=58&descSize=18&animation=fadeIn" />
@@ -39,7 +38,6 @@ const thearith = {
     ],
     mindset: "Learn, Build, Improve, Repeat."
 };
-```
 
 ---
 
